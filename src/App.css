@@ -1,0 +1,18 @@
+@import url("https://uilight.netlify.app/main.css");
+
+:root {
+    --bg-color: #000000;
+    --primary-color: #545b68;
+    --secondary-color: #15164f;
+    --accent-color: #eedae2;
+    --text-color-primary: #ffffff;
+    --green-badge: #3ea262;
+   
+  }
+ 
+  body {
+    
+    background-color: var(--bg-color);
+    
+  }
+  

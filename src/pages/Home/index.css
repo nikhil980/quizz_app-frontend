@@ -1,0 +1,25 @@
+.main {
+    padding: 2rem 0;
+}
+
+.gap-md {
+    gap: 2rem;
+}
+.ko{
+    margin-top:18px;
+    align-items: center;
+    margin-left: 20px;
+    justify-items: center;
+    color: aliceblue; 
+}
+.catt{
+    color: aliceblue; 
+    background-color:transparent ;
+   
+    padding: 8px;
+
+}
+.catt:hover{
+    cursor: pointer;
+    color: rgb(111, 123, 123);
+}
